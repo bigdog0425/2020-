@@ -12,8 +12,8 @@ int main(void) {
 	cin>>w;
 	cout<<"請輸入你的身高(公分):";
 	cin>>h;
-	hh=h*0.01;
-	BMI=w/(hh*hh);
+	hh=; 
+	BMI=;
 	cout<<"你的BMI:"<<BMI;
 	return 0; 
 }
